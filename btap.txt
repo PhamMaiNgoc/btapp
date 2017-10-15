@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8">
-	<title>K? thu?t viÍn tin h?c</title>
+	<title>Ki thuat vien tin hoc</title>
 </head>
 <body >
 	<table border="1" width="600" align="center" background="hinhnen2.jpg">
 		<tr>
 			<td>
-				1.K? thu?t viÍn tin h?c<br>
-				<a href="ChuongTrinhDTWeb.html">2.ChuyÍn ng‡nh Website</a>
+				1.Ki thuat vi√™n tin hoc<br>
+				<a href="ChuongTrinhDTWeb.html">2.Chuy√™n ng√†nh Website</a>
 				<hr>
-				<font color="red">K? thu?t viÍn tin h?c</font>
+				<font color="red">Ki thuat vien tin hoc</font>
 				<br>
-				<a href="#HocphanI">H?c ph?n I</a>
+				<a href="#HocphanI">Hoc phan I</a>
+				>>>>>>> 17c860612953c0f9d88f313c8dfbf7d858e02e91
 				<br>
 				<a href="#HocphanII">H?c ph?n II</a>
 				<br>
@@ -20,14 +21,14 @@
 				<br>
 				<ol type="I">
 					<li>
-						Tin H?c C„n B?n
+						Tin H?c C√£n B?n
 							<ol type="1">
-								<li>T?ng quan c?u tr˙c m·y tÌnh</li>
-								<li>H? i?u h‡nh Windows & Internet</li>
+								<li>T?ng quan c?u tr√∫c m√°y t√≠nh</li>
+								<li>H? √∞i?u h√†nh Windows & Internet</li>
 							</ol>
 					</li>
 					<li>
-						Tin H?c V„n Ph?ng
+						Tin H?c V√£n Ph?ng
 							<ol type="1">
 								<li>Microsoft Word</li>
 								<li>Microsoft Excel</li>
@@ -41,7 +42,7 @@
 						</ol>
 					</li>
 				</ol>
-				<a href="#DauTrang" ><p align="right">–?u Trang</p></a>
+				<a href="#DauTrang" ><p align="right">√ê?u Trang</p></a>
 			</td>
 		</tr>
 
