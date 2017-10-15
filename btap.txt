@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8">
+	<title>K? thu?t viên tin h?c</title>
+</head>
+<body >
+	<table border="1" width="600" align="center" background="hinhnen2.jpg">
+		<tr>
+			<td>
+				1.K? thu?t viên tin h?c<br>
+				<a href="ChuongTrinhDTWeb.html">2.Chuyên ngành Website</a>
+				<hr>
+				<font color="red">K? thu?t viên tin h?c</font>
+				<br>
+				<a href="#HocphanI">H?c ph?n I</a>
+				<br>
+				<a href="#HocphanII">H?c ph?n II</a>
+				<br>
+				<a href="#HocphanIII">H?c ph?n III</a>
+				<br>
+				<ol type="I">
+					<li>
+						Tin H?c Cãn B?n
+							<ol type="1">
+								<li>T?ng quan c?u trúc máy tính</li>
+								<li>H? ði?u hành Windows & Internet</li>
+							</ol>
+					</li>
+					<li>
+						Tin H?c Vãn Ph?ng
+							<ol type="1">
+								<li>Microsoft Word</li>
+								<li>Microsoft Excel</li>
+							</ol>
+					</li>
+					<li>	
+						Tin H?c Qu?n L?
+						<ol type="1">
+							<li>Microsoft Access</li>
+							<li>Microsoft PowerPoint</li>
+						</ol>
+					</li>
+				</ol>
+				<a href="#DauTrang" ><p align="right">Ð?u Trang</p></a>
+			</td>
+		</tr>
+
+		
+	</table>
+
+</body>
+</html>
